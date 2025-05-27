@@ -1,4 +1,4 @@
-module github.com/orkarstoft/cobra-sub
+module github.com/orkarstoft/cobrasub
 
 go 1.24.1
 
